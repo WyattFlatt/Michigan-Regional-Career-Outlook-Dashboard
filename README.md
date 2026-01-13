@@ -70,11 +70,11 @@ The dashboard was designed to meet accessibility standards, including but limite
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![How To Use](screenshots/how_to_use.png)
-![Occupation Projections](screenshots/occupation_projections.png)
-![Regional Outlooks](screenshots/regional_outlooks.png)
-![Data Glossary](screenshots/data_glossary.png)
+![Homepage](Screenshots/homepage.png)
+![How To Use](Screenshots/how_to_use.png)
+![Occupation Projections](Screenshots/occupation_projections.png)
+![Regional Outlooks](Screenshots/regional_outlooks.png)
+![Data Glossary](Screenshots/data_glossary.png)
 
 ---
 
